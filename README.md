@@ -1,5 +1,5 @@
 # Major Crime Indicators in Toronto
-### An analysis using R.
+### An analysis using R
 
 This dataset includes all Major Crime Indicators (MCI) 2014 to 2018 occurrences by reported date and related offences.
 The Major Crime Indicators categories are Assault, Break and Enter, Auto Theft, Robbery and Theft Over.  
